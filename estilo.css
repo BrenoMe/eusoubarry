@@ -1,0 +1,24 @@
+/* Estilos personalizados */
+body {
+    background-color: #faf8f8;
+  }
+  
+  header {
+    background-color: #ffffff00;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .card {
+    
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
